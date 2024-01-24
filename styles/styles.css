@@ -715,16 +715,23 @@ footer{
    }
 
    .sec3-div2-first{
-    width: 335px;
+    width: 300px;
     height: 289px;
    }
 
    .sec3-div2-second{
-    width: 335px;
+    width: 300px;
     height: 289px;
     margin: auto;
+    margin-top: 20px;
    }
 
+   .sec3-div3{
+    width: 300px;
+    height: 289px;
+    margin: auto; 
+    margin-top: 20px;  
+   }
    .sec4-part1{
     width: 335px;
     height: 353px;
@@ -733,10 +740,11 @@ footer{
     justify-content: center;
     align-items: center;
     margin: auto;
+    margin-top: 50px;
    }
 
    .sec4-part2{
-    margin-top: 100px;
+    margin-top: 50px;
    }
 
    .name{
